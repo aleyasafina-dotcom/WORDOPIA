@@ -1,0 +1,6 @@
+{
+  "name": "WORDOPIA: THE LOST SIGNAL",
+  "description": "Permainan pengembaraan 3D orang ketiga di Kota NEXUS untuk murid Tahun 6 menguasai ayat aktif dan ayat pasif Bahasa Melayu (SP 5.3.3).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
